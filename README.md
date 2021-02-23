@@ -44,7 +44,19 @@
 
 [<img align="left" src="./img/bootstrap-plain.svg" width="35" height="35" alt="Python" />][cssplaylist]
 
-[<img align="left" src="./img/bootstrap-plain.svg" width="35" height="35" alt="Python" />][cssplaylist]
+[<img align="left" src="./img/aws.png" width="35" height="35" alt="Python" />][cssplaylist]
+
+[<img align="left" src="./img/redis.png" width="35" height="35" alt="Python" />][cssplaylist]
+
+[<img align="left" src="./img/django.png" width="35" height="35" alt="Python" />][cssplaylist]
+
+[<img align="left" src="./img/gitlab.png" width="35" height="35" alt="Python" />][cssplaylist]
+
+[<img align="left" src="./img/node.svg" width="35" height="35" alt="Python" />][cssplaylist]
+
+[<img align="left" src="./img/json.svg" width="35" height="35" alt="Python" />][cssplaylist]
+
+[<img align="left" src="./img/mysql.svg" width="35" height="35" alt="Python" />][cssplaylist]
 
 
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
