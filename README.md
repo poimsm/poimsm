@@ -49,19 +49,19 @@
 
 [<img align="left" src="./img/django.png" width="35" height="35" alt="Python" />][cssplaylist]
 
-[<img align="left" src="./img/redis.png" width="35" />][cssplaylist]
+[<img align="left" src="./img/redis.png" width="35"" />][cssplaylist]
 
-[<img align="left" src="./img/gitlab.png" width="35" " />][cssplaylist]
+[<img align="left" src="./img/gitlab.png" height="35"" />][cssplaylist]
 
-[<img align="left" src="./img/node.svg" width="35" " />][cssplaylist]
+[<img align="left" src="./img/node.svg" height="35"" />][cssplaylist]
 
-[<img align="left" src="./img/json.svg" width="35" " />][cssplaylist]
+[<img align="left" src="./img/json.svg" height="35"" />][cssplaylist]
 
-[<img align="left" src="./img/mysql.svg" width="35" " />][cssplaylist]
+[<img align="left" src="./img/mysql.svg" height="35"" />][cssplaylist]
 
-[<img align="left" src="./img/git.svg" width="35" " />][cssplaylist]
+[<img align="left" src="./img/git.svg" height="35"" />][cssplaylist]
 
-[<img align="left" src="./img/mysql.svg" width="35" " />][cssplaylist]
+[<img align="left" src="./img/mysql.svg" height="35"" />][cssplaylist]
 
 
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
