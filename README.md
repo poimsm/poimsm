@@ -27,31 +27,86 @@
 
 ### Favorite Tech:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" src="./img/python-original.svg" width="35" height="35" alt="Python" />][cssplaylist]
+<table>    
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+      </a>
+      <br>RHEL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+      </a>
+      <br>Powershell
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>Prometheus
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+      </a>
+      <br>Thanos
+    </td>
+  </tr>
+</table>
 
-[<img align="left" src="./img/typescript-original.svg" width="35" height="35" alt="Python" />][cssplaylist]
-
-[<img align="left" src="./img/javascript-original.svg" width="35" height="35" alt="Python" />][cssplaylist]
-
-[<img align="left" src="./img/react-original.svg" width="35" height="35" alt="Python" />][cssplaylist]
-
-[<img align="left" src="./img/bootstrap-plain.svg" width="35" height="35" alt="Python" />][cssplaylist]
-
-[<img align="left" src="./img/docker-original.svg" width="35" height="35" alt="Python" />][cssplaylist]
-
-[<img align="left" src="./img/bootstrap-plain.svg" width="35" height="35" alt="Python" />][cssplaylist]
-
-[<img align="left" src="./img/aws.png" width="35" height="35" alt="Python" />][cssplaylist]
 
 
-[<img align="left" src="./img/django.png" width="35" height="35" alt="Python" />][cssplaylist]
+[<img align="left" src="./img/python-original.svg" height="35" />][cssplaylist]
 
-[<img align="left" src="./img/redis.png" width="35" />][cssplaylist]
+[<img align="left" src="./img/javascript-original.svg" height="35" />][cssplaylist]
 
-[<img align="left" src="./img/gitlab.png" height="35" />][cssplaylist]
+[<img align="left" src="./img/react-original.svg" height="35" />][cssplaylist]
+
+[<img align="left" src="./img/docker-original.svg" height="38" />][cssplaylist]
+
+[<img align="left" src="./img/bootstrap-plain.svg" height="35" />][cssplaylist]
+
+[<img align="left" src="./img/aws.png" height="35" />][cssplaylist]
+
+[<img align="left" src="./img/django.png" height="50" />][cssplaylist]
+
+[<img align="left" src="./img/typescript-original.svg" height="35" />][cssplaylist]
+
+[<img align="left" src="./img/redis.png" height="26" />][cssplaylist]
+
+[<img align="left" src="./img/gitlab.png" height="30" />][cssplaylist]
 
 [<img align="left" src="./img/node.svg" height="35" />][cssplaylist]
 
@@ -61,22 +116,8 @@
 
 [<img align="left" src="./img/git.svg" height="35" />][cssplaylist]
 
-[<img align="left" src="./img/mysql.svg" height="35" />][cssplaylist]
+[<img align="left" src="./img/mongo.png" height="35" />][cssplaylist]
 
-
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
 <br />
