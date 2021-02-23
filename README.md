@@ -31,6 +31,22 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img src="./img/python-original.svg" width="48" height="48" alt="Python" />][cssplaylist]
+
+[<img src="./img/typescript-original.svg" width="48" height="48" alt="Python" />][cssplaylist]
+
+[<img src="./img/javascript-original.svg" width="48" height="48" alt="Python" />][cssplaylist]
+
+[<img src="./img/react-original.svg" width="48" height="48" alt="Python" />][cssplaylist]
+
+[<img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Python" />][cssplaylist]
+
+[<img src="./img/docker-original.svg" width="48" height="48" alt="Python" />][cssplaylist]
+
+[<img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Python" />][cssplaylist]
+
+[<img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Python" />][cssplaylist]
+
+
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
