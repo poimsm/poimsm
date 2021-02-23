@@ -11,9 +11,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
 ### Connect with me:
 
@@ -61,9 +61,9 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/mysql.svg" height="48" />
+        <img src="./img/angular.png" height="48" />
       </a>
-      <br>MySQL
+      <br>Angular
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -130,22 +130,16 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/mongo2.png" height="48"/>
+        <img src="./img/vue.png" height="48" />
       </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/aws.png" height="48" />
-      </a>
-      <br>Thanos
+      <br>VueJS
     </td>
   </tr>
 </table>
 
 
 
-[<img align="left" src="./img/python.svg" height="35" />][cssplaylist]
+<!-- [<img align="left" src="./img/python.svg" height="35" />][cssplaylist]
 
 [<img align="left" src="./img/javascript.svg" height="35" />][cssplaylist]
 
@@ -161,7 +155,7 @@
 
 [<img align="left" src="./img/typescript.svg" height="35" />][cssplaylist]
 
-[<img align="left" src="./img/redis.png" height="26" />][cssplaylist]
+[<img align="left" src="./img/redis.png" height="26"/>][cssplaylist]
 
 [<img align="left" src="./img/gitlab.png" height="30" />][cssplaylist]
 
@@ -173,7 +167,7 @@
 
 [<img align="left" src="./img/git.svg" height="35" />][cssplaylist]
 
-[<img align="left" src="./img/mongo.png" height="35" />][cssplaylist]
+<img align="left" src="./img/mongo.png" height="35" /> -->
 
 
 <br />
