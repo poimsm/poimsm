@@ -27,59 +27,116 @@
 
 ### Favorite Tech:
 
-<table>    
-  <tr>
+<table>
+ <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/docker.svg" height="48" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="./img/python.svg" height="48"/>
       </a>
-      <br>Kubernetes
+      <br>Python
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="./img/mysql1.svg" height="48"/>
       </a>
-      <br>Debian
+      <br>MySQL
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+        <img src="./img/json.svg" height="48" />
       </a>
-      <br>RHEL
+      <br>JSON
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+        <img src="./img/javascript.svg" height="48" />
       </a>
-      <br>Powershell
+      <br>Javascript
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="./img/mysql.svg" height="48" />
       </a>
       <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="./img/react.svg" height="48" />
       </a>
-      <br>Grafana
+      <br>ReactJS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+        <img src="./img/mongo2.png" height="48" />
       </a>
-      <br>Prometheus
+      <br>MongoDB
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+        <img src="./img/aws.png" height="48" />
+      </a>
+      <br>Amazon
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/bootstrap.svg" height="48" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/django.png" width="48" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript.svg" width="48" />
+      </a>
+      <br>Typescript
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/redis.png" height="48" />
+      </a>
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/gitlab.png" height="48" />
+      </a>
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/node.svg" height="48" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/git.svg" height="33" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/mongo2.png" height="48"/>
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/aws.png" height="48" />
       </a>
       <br>Thanos
     </td>
@@ -88,13 +145,13 @@
 
 
 
-[<img align="left" src="./img/python-original.svg" height="35" />][cssplaylist]
+[<img align="left" src="./img/python.svg" height="35" />][cssplaylist]
 
-[<img align="left" src="./img/javascript-original.svg" height="35" />][cssplaylist]
+[<img align="left" src="./img/javascript.svg" height="35" />][cssplaylist]
 
-[<img align="left" src="./img/react-original.svg" height="35" />][cssplaylist]
+[<img align="left" src="./img/react.svg" height="35" />][cssplaylist]
 
-[<img align="left" src="./img/docker-original.svg" height="38" />][cssplaylist]
+[<img align="left" src="./img/docker.svg" height="38" />][cssplaylist]
 
 [<img align="left" src="./img/bootstrap-plain.svg" height="35" />][cssplaylist]
 
@@ -102,7 +159,7 @@
 
 [<img align="left" src="./img/django.png" height="50" />][cssplaylist]
 
-[<img align="left" src="./img/typescript-original.svg" height="35" />][cssplaylist]
+[<img align="left" src="./img/typescript.svg" height="35" />][cssplaylist]
 
 [<img align="left" src="./img/redis.png" height="26" />][cssplaylist]
 
