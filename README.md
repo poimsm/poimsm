@@ -30,15 +30,15 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img src="./img/python-original.svg" width="48" height="48" alt="Python" />][cssplaylist]
+[<img align="left" src="./img/python-original.svg" width="48" height="48" alt="Python" />][cssplaylist]
 
-[<img src="./img/typescript-original.svg" width="48" height="48" alt="Python" />][cssplaylist]
+[<img align="left" src="./img/typescript-original.svg" width="48" height="48" alt="Python" />][cssplaylist]
 
-[<img src="./img/javascript-original.svg" width="48" height="48" alt="Python" />][cssplaylist]
+[<img align="left" src="./img/javascript-original.svg" width="48" height="48" alt="Python" />][cssplaylist]
 
-[<img src="./img/react-original.svg" width="48" height="48" alt="Python" />][cssplaylist]
+[<img align="left" src="./img/react-original.svg" width="48" height="48" alt="Python" />][cssplaylist]
 
-[<img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Python" />][cssplaylist]
+[<img align="left" src="./img/bootstrap-plain.svg" width="48" height="48" alt="Python" />][cssplaylist]
 
 [<img src="./img/docker-original.svg" width="48" height="48" alt="Python" />][cssplaylist]
 
