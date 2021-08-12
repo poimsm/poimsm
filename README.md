@@ -1,5 +1,6 @@
-### Hey, I am [Oscar][website] from Chile 👋
-<span style="color:blue">some *blue* text</span>.
+
+<h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1">Oscar</a> from Chile 👋</h1>
+<h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
 
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
