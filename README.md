@@ -1,18 +1,20 @@
 
 <h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1">Oscar</a> from Chile 👋</h1>
-<!-- <h3 align="center">I'm a self-taught software engineer!!</h3> -->
 
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Linkedin: poimsm](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/poimsm/)]([linkedin])
+
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+
 
 ## I'm a self-taught software engineer!!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently launching a my own app for English learning
+- 🌱 I’m currently launching my own app for English learning
 - 👯 I’m exploring Machine Learning and Artificial Intelligence
 - 🥅 Preparing for **TOEFL**
-- ⚡ Fun fact: I'm a self-taught software engineer!!
+- ⚡ Fun fact: I'm an Aerospace Engineer as well!
 
 
 ### Favorite Tech:
